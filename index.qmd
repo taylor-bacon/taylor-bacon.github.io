@@ -1,5 +1,10 @@
 ---
-title: "taylor-bacon"
+project:
+  type: website
+  output-dir: docs
+
+website:  
+  title: "taylor-bacon"
 ---
 
 This is a Quarto website.
