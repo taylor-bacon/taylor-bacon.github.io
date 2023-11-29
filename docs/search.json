@@ -7,10 +7,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "taylor-bacon",
-    "section": "",
-    "text": "This is a Quarto website.\nTest\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Taylor Bacon",
+    "section": "Education",
+    "text": "Education\nBSE in Chemical & Biological Engineering | Princeton University\nPhD Student in Soil & Crop Sciences | Colorado State University"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Taylor Bacon",
+    "section": "Experience",
+    "text": "Experience\nHigh Meadows Fellow | Environmental Defense Fund | 2019-2021\nClean Air & Climate Analyst | Environmental Defense Fund | 2021-2022"
   }
 ]

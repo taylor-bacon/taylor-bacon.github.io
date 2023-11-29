@@ -1,18 +1,31 @@
 ---
-project:
-  type: website
-  output-dir: docs
-
-website:  
-  title: "taylor-bacon"
+title: "Taylor Bacon"
+image: taylor.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/taylor-bacon-680268114/
+      icon: "linkedin"
+    - text: Email
+      href: mailto:taylor.bacon@colostate.edu
+      icon: "envelope"
 ---
 
-This is a Quarto website.
+## Hello!
 
-Test
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+BSE in Chemical & Biological Engineering \| **Princeton University**
 
-```{r}
-1 + 1
-```
+PhD Student in Soil & Crop Sciences \| **Colorado State University**
+
+## Experience
+
+Clean Air & Climate Analyst \| **Environmental Defense Fund** \| 2021-2022
+
+High Meadows Fellow \| **Environmental Defense Fund** \| 2019-2021
+
+Streiker International Fellow \| **World Bioenergy Association** \| 2018

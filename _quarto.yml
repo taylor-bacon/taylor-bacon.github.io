@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "taylor-bacon"
+  title: "Taylor Bacon"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 
