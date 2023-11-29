@@ -3,7 +3,7 @@ title: "Taylor Bacon"
 image: taylor.jpeg
 about: 
   template: trestles
-  image-shape: rounded
+  image-shape: round
   image-width: 15em
   links:
     - text: LinkedIn
@@ -18,14 +18,24 @@ about:
 
 ## Education
 
-BSE in Chemical & Biological Engineering \| **Princeton University**
+**Colorado State University**
 
-PhD Student in Soil & Crop Sciences \| **Colorado State University**
+*PhD Student in Soil & Crop Sciences*
+
+**Princeton University**
+
+*BSE in Chemical & Biological Engineering*
 
 ## Experience
 
-Clean Air & Climate Analyst \| **Environmental Defense Fund** \| 2021-2022
+**Environmental Defense Fund**
 
-High Meadows Fellow \| **Environmental Defense Fund** \| 2019-2021
+*Climate & Clean Air Analyst \| 2021-2022*
 
-Streiker International Fellow \| **World Bioenergy Association** \| 2018
+*High Meadows Fellow \| 2019-2021*
+
+**World Bioenergy Association**
+
+*Streiker International Fellow \| 2018*
+
+## Interests

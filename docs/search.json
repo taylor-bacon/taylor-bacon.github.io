@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Taylor Bacon",
     "section": "Education",
-    "text": "Education\nBSE in Chemical & Biological Engineering | Princeton University\nPhD Student in Soil & Crop Sciences | Colorado State University"
+    "text": "Education\nColorado State University\nPhD Student in Soil & Crop Sciences\nPrinceton University\nBSE in Chemical & Biological Engineering"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Taylor Bacon",
     "section": "Experience",
-    "text": "Experience\nHigh Meadows Fellow | Environmental Defense Fund | 2019-2021\nClean Air & Climate Analyst | Environmental Defense Fund | 2021-2022"
+    "text": "Experience\nEnvironmental Defense Fund\nClimate & Clean Air Analyst | 2021-2022\nHigh Meadows Fellow | 2019-2021\nWorld Bioenergy Association\nStreiker International Fellow | 2018"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Taylor Bacon",
+    "section": "Interests",
+    "text": "Interests"
+  },
+  {
+    "objectID": "Media.html",
+    "href": "Media.html",
+    "title": "Media",
+    "section": "",
+    "text": "We Measure the World Podcast\n\n\n\n\n\n\n\n\n\nSustainable Energy Certificate\n\n\n\n\n\nStreicker Snapshot"
+  },
+  {
+    "objectID": "research.html#how-can-we-make-aviation-fuels-more-sustainable",
+    "href": "research.html#how-can-we-make-aviation-fuels-more-sustainable",
+    "title": "Research",
+    "section": "How can we make aviation fuels more sustainable?",
+    "text": "How can we make aviation fuels more sustainable?\nhttps://dataspace.princeton.edu/handle/88435/dsp01q524jr60r"
   }
 ]
