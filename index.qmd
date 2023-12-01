@@ -16,6 +16,8 @@ about:
 
 ## Hello!
 
+I'm a soil science PhD student interested in how we can make the best land management decisions possible for
+
 ## Education
 
 **Colorado State University**
@@ -25,6 +27,8 @@ about:
 **Princeton University**
 
 *BSE in Chemical & Biological Engineering*
+
+</br>
 
 ## Experience
 
@@ -39,3 +43,9 @@ about:
 *Streiker International Fellow \| 2018*
 
 ## Interests
+
+-   Multi-use solar
+
+-   Nature-based climate solutions
+
+-   

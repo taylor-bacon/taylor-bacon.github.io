@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "cv/CV.html",
+    "href": "cv/CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taylor Bacon",
+    "section": "",
+    "text": "I’m a PhD student in the soil science department at Colorado State University interested in how we can make the best land management decisions possible for"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Taylor Bacon",
+    "section": "",
+    "text": "I’m a PhD student in the soil science department at Colorado State University interested in how we can make the best land management decisions possible for"
+  },
+  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Taylor Bacon",
@@ -18,7 +39,7 @@
     "href": "index.html#interests",
     "title": "Taylor Bacon",
     "section": "Interests",
-    "text": "Interests"
+    "text": "Interests\n\nMulti-use solar\nNature-based climate solutions"
   },
   {
     "objectID": "Media.html",

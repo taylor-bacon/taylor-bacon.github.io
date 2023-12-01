@@ -10,7 +10,8 @@ website:
         text: Home
       - research.qmd
       - Media.qmd
-      - CV.qmd
+      - text: CV
+        href: cv/CV.qmd
 
 
 format:
