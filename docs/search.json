@@ -11,28 +11,28 @@
     "href": "index.html",
     "title": "Taylor Bacon",
     "section": "",
-    "text": "I’m a PhD student in the soil science department at Colorado State University interested in how we can make the best land management decisions possible for"
+    "text": "I’m a soil scientist interested in how we can make the best land management decisions possible for soil carbon sequestration, climate resilience and ecosystem function. I’m currently a 3rd semester PhD student at Colorado State University working with Dr. Keith Paustian. My research focuses on the co-location of regenerative cattle grazing and solar PV to reduce land-use tension between energy and agriculture and improve environmental outcomes of renewable energy. When I’m not in the field or the lab, I’m usually trail running, backpacking, or playing in the mountains. Thanks for stopping by!"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "Taylor Bacon",
     "section": "",
-    "text": "I’m a PhD student in the soil science department at Colorado State University interested in how we can make the best land management decisions possible for"
+    "text": "I’m a soil scientist interested in how we can make the best land management decisions possible for soil carbon sequestration, climate resilience and ecosystem function. I’m currently a 3rd semester PhD student at Colorado State University working with Dr. Keith Paustian. My research focuses on the co-location of regenerative cattle grazing and solar PV to reduce land-use tension between energy and agriculture and improve environmental outcomes of renewable energy. When I’m not in the field or the lab, I’m usually trail running, backpacking, or playing in the mountains. Thanks for stopping by!"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Taylor Bacon",
     "section": "Education",
-    "text": "Education\nColorado State University\nPhD Student in Soil & Crop Sciences\nPrinceton University\nBSE in Chemical & Biological Engineering"
+    "text": "Education\nColorado State University | PhD Student in Soil & Crop Sciences | 2022 - present\nPrinceton University | BSE in Chemical & Biological Engineering | 2015-2019"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Taylor Bacon",
     "section": "Experience",
-    "text": "Experience\nEnvironmental Defense Fund\nClimate & Clean Air Analyst | 2021-2022\nHigh Meadows Fellow | 2019-2021\nWorld Bioenergy Association\nStreiker International Fellow | 2018"
+    "text": "Experience\nEnvironmental Defense Fund | Climate & Clean Air Analyst | 2021-2022\nEnvironmental Defense Fund | High Meadows Fellow | 2019-2021\nWorld Bioenergy Association | Streiker International Fellow | 2018"
   },
   {
     "objectID": "index.html#interests",
@@ -46,13 +46,27 @@
     "href": "Media.html",
     "title": "Media",
     "section": "",
-    "text": "We Measure the World Podcast\n\n\n\n\n\n\n\n\n\nSustainable Energy Certificate\n\n\n\n\n\nStreicker Snapshot"
+    "text": "We Measure the World Podcast\n\n\n\n\n\n\n\n\n\nAndlinger center celebrates certificate graduates, and senior thesis winner, Taylor Bacon\n\n\n\n\n\nStreicker Snapshot: Taylor Bacon ’19 in Sweden"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "sample text"
+  },
+  {
+    "objectID": "research.html#can-co-locating-cattle-grazing-and-solar-pv-improve-ecosystem-outcomes-compared-to-single-use-systems",
+    "href": "research.html#can-co-locating-cattle-grazing-and-solar-pv-improve-ecosystem-outcomes-compared-to-single-use-systems",
+    "title": "Research",
+    "section": "",
+    "text": "sample text"
   },
   {
     "objectID": "research.html#how-can-we-make-aviation-fuels-more-sustainable",
     "href": "research.html#how-can-we-make-aviation-fuels-more-sustainable",
     "title": "Research",
     "section": "How can we make aviation fuels more sustainable?",
-    "text": "How can we make aviation fuels more sustainable?\nhttps://dataspace.princeton.edu/handle/88435/dsp01q524jr60r"
+    "text": "How can we make aviation fuels more sustainable?\n\n\n\n\n\n\nFor my undergraduate thesis, I studied the potential to create jet fuel from forestry residue to reduce emissions from air travel. Advised by Dr. Eric Larson, I modeled a pathway for converting forestry residue to bio-jet fuel using Fischer-Tropsch Synthesis, then evaluated the economics and potential for scale-up. You can read more about that project here."
   }
 ]

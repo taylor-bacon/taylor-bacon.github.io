@@ -2,10 +2,18 @@
 title: "Research"
 ---
 
-## How can we improve the
+## Can co-locating cattle grazing and solar PV improve ecosystem outcomes compared to single-use systems?
 
-### 
+::: {layout="[30,70]"}
+![](CattleTracker.jpg){width=300}
+
+Sample text
+:::
 
 ## How can we make aviation fuels more sustainable?
 
-https://dataspace.princeton.edu/handle/88435/dsp01q524jr60r
+::: {layout="[30,70]"}
+![](thesis.jpg){width="300"}
+
+For my undergraduate thesis, I studied the potential to create jet fuel from forestry residue to reduce emissions from air travel. Advised by [Dr. Eric Larson](https://environmenthalfcentury.princeton.edu/experts/eric-larson), I modeled a pathway for converting forestry residue to bio-jet fuel using Fischer-Tropsch Synthesis, then evaluated the economics and potential for scale-up. You can read more about that project [here](https://dataspace.princeton.edu/handle/88435/dsp01q524jr60r).
+:::

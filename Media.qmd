@@ -3,12 +3,12 @@ title: "Media"
 ---
 
 ::: {#media layout-ncol="2"}
-[![We Measure the World Podcast](meter.png)](https://www.metergroup.com/en/meter-environment/podcast/episode-27-battle-earth-cattle-vs-solar-0)
+[![We Measure the World Podcast](meter.png){width=300}](https://www.metergroup.com/en/meter-environment/podcast/episode-27-battle-earth-cattle-vs-solar-0)
 :::
 
-::: {layout="[1,0.5,1]"}
-[![Sustainable Energy Certificate](Andlinger.jpg)](https://acee.princeton.edu/acee-news/andlinger-center-celebrates-certificate-graduates-and-senior-thesis-winner-taylor-bacon/)
+::: {layout-ncol="2"}
+[![Andlinger center celebrates certificate graduates, and senior thesis winner, Taylor Bacon](Andlinger.jpg){width=300}](https://acee.princeton.edu/acee-news/andlinger-center-celebrates-certificate-graduates-and-senior-thesis-winner-taylor-bacon/)
 
-[![Streicker Snapshot](stockholm.jpg)](https://oip.princeton.edu/news/2019/streicker-snapshot-taylor-bacon-19-sweden)
+[![Streicker Snapshot: Taylor Bacon '19 in Sweden](stockholm.jpg){width=300}](https://oip.princeton.edu/news/2019/streicker-snapshot-taylor-bacon-19-sweden)
 :::
 
