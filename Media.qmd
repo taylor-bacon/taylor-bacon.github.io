@@ -2,13 +2,37 @@
 title: "Media"
 ---
 
-::: {#media layout-ncol="2"}
-[![We Measure the World Podcast](meter.png){width=300}](https://www.metergroup.com/en/meter-environment/podcast/episode-27-battle-earth-cattle-vs-solar-0)
+## Recent Media
+::: {layout-ncol="1"}
+[![](meter2.png){width="850"}](https://www.metergroup.com/en/meter-environment/podcast/episode-27-battle-earth-cattle-vs-solar-0)
 :::
 
-::: {layout-ncol="2"}
-[![Andlinger center celebrates certificate graduates, and senior thesis winner, Taylor Bacon](Andlinger.jpg){width=300}](https://acee.princeton.edu/acee-news/andlinger-center-celebrates-certificate-graduates-and-senior-thesis-winner-taylor-bacon/)
+## Featured Articles
 
-[![Streicker Snapshot: Taylor Bacon '19 in Sweden](stockholm.jpg){width=300}](https://oip.princeton.edu/news/2019/streicker-snapshot-taylor-bacon-19-sweden)
+::: {layout="[50,50]"}
+[![Andlinger center celebrates certificate graduates, and senior thesis winner, Taylor Bacon](Andlinger.jpg){width="400"}](https://acee.princeton.edu/acee-news/andlinger-center-celebrates-certificate-graduates-and-senior-thesis-winner-taylor-bacon/)
+
+[![Streicker Snapshot: Taylor Bacon '19 in Sweden](stockholm.jpg){width="400"}](https://oip.princeton.edu/news/2019/streicker-snapshot-taylor-bacon-19-sweden)
 :::
+
+## Blog Posts
+
+[Stronger national fine particle air pollution standards will provide significant health benefits and reduce disparities](https://globalcleanair.org/environmental-justice/stronger-national-fine-particle-air-pollution-standards-will-provide-significant-health-benefits-and-reduce-disparities/#:~:text=A%20new%20EDF%20report%20finds,communities%20across%20the%20United%20States.) | Jun 2022
+
+[New analysis: Americans across the country suffered from high ozone pollution levels this summer](https://www.edf.org/aggregator/sources/703) | Oct 2021
+
+[Driving the electric vehicle transition: auto companies and states step up to lead](https://business.edf.org/insights/driving-the-electric-vehicle-transition-auto-companies-and-states-step-up-to-lead/) | Apr 2021
+
+[Trump administration decision on soot ignores science, risks American's health](https://blogs.edf.org/climate411/2020/12/07/trump-administration-decision-on-soot-ignores-science-risks-americans-health/?_gl=1*olkjqn*_gcl_au*NjY0NjkwNTc3LjE3MDIwNDkxNTk.*_ga*MjAyNDYzNDM3Mi4xNjk0MTE0Mzc0*_ga_2B3856Y9QW*MTcwMjA0OTE1Ny4xMS4xLjE3MDIwNDk0ODIuNjAuMC4w*_ga_Q5CTTQBJD8*MTcwMjA0OTE1OC4xMS4xLjE3MDIwNDk0ODIuNjAuMC4w) | Dec 2020
+
+[The Trump administration's air toxics loophole would intensify environmental injustice](https://blogs.edf.org/climate411/2020/05/11/the-trump-administrations-air-toxics-loophole-would-intensify-environmental-injustice/?_gl=1*pd2hr*_gcl_au*NjY0NjkwNTc3LjE3MDIwNDkxNTk.*_ga*MjAyNDYzNDM3Mi4xNjk0MTE0Mzc0*_ga_2B3856Y9QW*MTcwMjA0OTE1Ny4xMS4xLjE3MDIwNDk0ODcuNTUuMC4w*_ga_Q5CTTQBJD8*MTcwMjA0OTE1OC4xMS4xLjE3MDIwNDk0ODcuNTUuMC4w) | May 2020
+
+[Power company commitments to cut carbon pollution are an important step for our climate and health. Here's what we need next.](https://blogs.edf.org/climate411/2020/05/05/power-company-commitments-to-cut-carbon-pollution-are-an-important-step-for-our-climate-and-health-heres-what-we-need-next/?_gl=1*olkjqn*_gcl_au*NjY0NjkwNTc3LjE3MDIwNDkxNTk.*_ga*MjAyNDYzNDM3Mi4xNjk0MTE0Mzc0*_ga_2B3856Y9QW*MTcwMjA0OTE1Ny4xMS4xLjE3MDIwNDk0ODIuNjAuMC4w*_ga_Q5CTTQBJD8*MTcwMjA0OTE1OC4xMS4xLjE3MDIwNDk0ODIuNjAuMC4w) | May 2020
+
+[EPA data emphasizes danger of Trump Administration's "air toxics loophole"](https://blogs.edf.org/climate411/2020/02/19/epa-data-emphasizes-danger-of-trump-administrations-air-toxics-loophole/?_gl=1*15q28ho*_gcl_au*NjY0NjkwNTc3LjE3MDIwNDkxNTk.*_ga*MjAyNDYzNDM3Mi4xNjk0MTE0Mzc0*_ga_2B3856Y9QW*MTcwMjA0OTE1Ny4xMS4xLjE3MDIwNDk0OTIuNTAuMC4w*_ga_Q5CTTQBJD8*MTcwMjA0OTE1OC4xMS4xLjE3MDIwNDk0ODcuNTUuMC4w) | Feb 2020
+
+[The pollution-enabling impacts of the Clean Power Plan "replacement"](https://blogs.edf.org/climate411/2019/10/30/the-pollution-enabling-impacts-of-the-clean-power-plan-replacement/?_gl=1*u0qtup*_gcl_au*NjY0NjkwNTc3LjE3MDIwNDkxNTk.*_ga*MjAyNDYzNDM3Mi4xNjk0MTE0Mzc0*_ga_2B3856Y9QW*MTcwMjA0OTE1Ny4xMS4xLjE3MDIwNDk0OTguNDQuMC4w*_ga_Q5CTTQBJD8*MTcwMjA0OTE1OC4xMS4xLjE3MDIwNDk0OTguNDQuMC4w) | Oct 2019
+
+
+
 

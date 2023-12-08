@@ -3,3 +3,23 @@
 .quarto-title > h1.title {
   opacity: 0 !important;
 }
+
+.caption{
+   text-align: center;
+}
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+    color: white;
+}
+.wp-block-image figcaption {
+    font-size: 10px;
+    color: white;
+}

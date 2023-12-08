@@ -21,6 +21,7 @@ format:
     toc: false
     backgroundcolor: "#708871"
     title-block-banner-color: "#29436D"
+    linkcolor: "#29436D"
     page-layout: full
 
 editor: visual
