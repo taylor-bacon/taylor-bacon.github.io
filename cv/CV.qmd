@@ -4,9 +4,9 @@ execute:
   freeze: true #never re-render during project
 engine: knitr
 resources:
-  - "Bacon_Taylor_CV_Aug2023.pdf"
+  - "Bacon_Taylor_CV_Jan2024.pdf"
 cv:
-  pdf: "Bacon_Taylor_CV_Aug2023.pdf"
+  pdf: "Bacon_Taylor_CV_Jan2024.pdf"
 ---
 
 ```{css echo=FALSE}
