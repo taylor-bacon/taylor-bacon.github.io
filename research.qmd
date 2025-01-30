@@ -1,14 +1,15 @@
 ---
-title: "Research"
+title: "Research & Publications"
 ---
+
+# Research Projects
 
 ## Can co-locating cattle grazing and solar PV improve ecosystem outcomes compared to single-use systems?
 
 ::: {layout="[30,70]"}
-![](CattleTracker.jpg){width=300}
+![](CattleTracker.jpg){width="300"}
 
 As we build out solar PV to meet climate goals, there's concern about the displacement of agriculture and the loss of pasture and rangeland ecosystem. Agrivoltaics, or the combination of agriculture and solar PV on the same piece of land has been proposed as one possible solution. My work seeks to understand the potential of these systems as a climate solution, specifically co-locating regenerative cattle grazing and solar PV. I'm working with an incredible interdisciplinary team to understand how to design and build a cattle-compatible PV system, if it's possible to eliminate risks to both the cattle and the solar infrastructure, the impacts of the layered land use system on ecological functioning, and the carbon balance for the system.
-
 :::
 
 ## How can we make aviation fuels more sustainable?
@@ -18,3 +19,7 @@ As we build out solar PV to meet climate goals, there's concern about the displa
 
 For my undergraduate thesis, I studied the potential to create jet fuel from forestry residue to reduce emissions from air travel. Advised by [Dr. Eric Larson](https://environmenthalfcentury.princeton.edu/experts/eric-larson), I modeled a pathway for converting forestry residue to bio-jet fuel using Fischer-Tropsch Synthesis, then evaluated the economics and potential for scale-up. You can read more about that project [here](https://dataspace.princeton.edu/handle/88435/dsp01q524jr60r).
 :::
+
+# Publications
+
+**Bacon, T.**, Ohlert, T., Toy, C., Siggers, J. A., & Sturchio, M. A. (2024). Network science can improve the sustainable development of solar energy. *Environmental Research: Energy*, *1*(4), 043002. https://doi.org/10.1088/2753-3751/ad99dc
