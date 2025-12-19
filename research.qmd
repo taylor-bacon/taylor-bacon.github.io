@@ -4,7 +4,7 @@ title: "Research & Publications"
 
 # Research Projects
 
-## Can co-locating cattle grazing and solar PV improve ecosystem outcomes compared to single-use systems?
+## Can integrating grazing and solar energy improve ecosystem outcomes compared to single-use systems?
 
 ::: {layout="[30,70]"}
 ![](images/clipboard-1066822354.jpeg){width="263"}
