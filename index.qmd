@@ -19,11 +19,11 @@ about:
 
 ## Hello!
 
-I'm a soil scientist interested in how we can make the best land management decisions possible for soil carbon sequestration, climate resilience and ecosystem function. I'm currently a 4th year PhD cadidate at Colorado State University working with [Dr. Keith Paustian](https://agsci.colostate.edu/old-soilcrop/faculty/keith-paustian/). My research focuses on ecological impacts of solar energy and the effects of integrating regenerative grazing to reduce land-use tension between energy and agriculture and improve the environmental outcomes of renewable energy. When I'm not in the field or the lab, I'm usually trail running, backpacking, or playing in the mountains. Thanks for stopping by!
+I'm an environmental scientist interested in how we can make the best land management decisions possible for soil carbon sequestration, climate resilience, and ecosystem function. My research focuses on ecological impacts of solar energy and the effects of integrating regenerative grazing to reduce land-use tension between energy and agriculture and improve the environmental outcomes of renewable energy. I received my PhD from Colorado State University in Soil Science, and I'm currently a postdoctoral research fellow working with [Dr. Keith Paustian](https://agsci.colostate.edu/old-soilcrop/faculty/keith-paustian/). When I'm not in the field or the lab, I'm usually trail running, backpacking, or playing in the mountains. Thanks for stopping by!
 
 ## Education
 
-**Colorado State University \|** *PhD Student in Soil & Crop Sciences \| 2022 - present*
+**Colorado State University \|** *PhD Student in Soil & Crop Sciences \| 2022 - 2026*
 
 **Princeton University \|** *BSE in Chemical & Biological Engineering \| 2015-2019*
 
@@ -37,9 +37,9 @@ I'm a soil scientist interested in how we can make the best land management deci
 
 ## Interests
 
--   Nature-based climate solutions
-
 -   Multi-use solar
+
+-   Nature-based climate solutions
 
 -   Policy-relevant science
 
