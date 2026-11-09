@@ -18,8 +18,8 @@ For my undergraduate thesis, I studied the potential to create jet fuel from for
 
 # Publications
 
-**Bacon**, T., Monlezun, A.C., de Vries, N., Hong, M., & Paustian, K. (2026). Microclimate, Vegetation, and Soil Response to Micro-Zonal Solar Photovoltaic Patterning in a Humid Sub-Tropical Agrivoltaic Grazing System. *Earth's Future*, 14, e2026EF009322. https://doi.org/10.1029/2026EF009322
+**Bacon**, T., Monlezun, A.C., de Vries, N., Hong, M., & Paustian, K. (2026). Microclimate, Vegetation, and Soil Response to Micro-Zonal Solar Photovoltaic Patterning in a Humid Sub-Tropical Agrivoltaic Grazing System. *Earth's Future*, 14, e2026EF009322. [https://doi.org/10.1029/2026EF009322](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009322)
 
-**Bacon**, T., Monlezun, A. C., Hong, M., Macknick, J., de Vries, N., Edwards‐Callaway, L., & Paustian, K. (2025). Agrivoltaic grazing systems for a sustainable future: A multi‐disciplinary review & gap analysis. *Earth's Future*, 13, e2024EF005429. https://doi.org/10.1029/ 2024EF005429
+**Bacon**, T., Monlezun, A. C., Hong, M., Macknick, J., de Vries, N., Edwards‐Callaway, L., & Paustian, K. (2025). Agrivoltaic grazing systems for a sustainable future: A multi‐disciplinary review & gap analysis. *Earth's Future*, 13, e2024EF005429. [https://doi.org/10.1029/2024EF005429](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005429)
 
-**Bacon, T.**, Ohlert, T., Toy, C., Siggers, J. A., & Sturchio, M. A. (2024). Network science can improve the sustainable development of solar energy. *Environmental Research: Energy*, *1*(4), 043002. https://doi.org/10.1088/2753-3751/ad99dc
+**Bacon**, T**.**, Ohlert, T., Toy, C., Siggers, J. A., & Sturchio, M. A. (2024). Network science can improve the sustainable development of solar energy. *Environmental Research: Energy*, *1*(4), 043002. [https://doi.org/10.1088/2753-3751/ad99dc](https://iopscience.iop.org/article/10.1088/2753-3751/ad99dc)

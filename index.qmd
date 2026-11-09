@@ -19,15 +19,21 @@ about:
 
 ## Hello!
 
-I'm an environmental scientist interested in how we can make the best land management decisions possible for soil carbon sequestration, climate resilience, and ecosystem function. My research focuses on ecological impacts of solar energy and the effects of integrating regenerative grazing to reduce land-use tension between energy and agriculture and improve the environmental outcomes of renewable energy. I received my PhD from Colorado State University in Soil Science, and I'm currently a postdoctoral research fellow working with [Dr. Keith Paustian](https://agsci.colostate.edu/old-soilcrop/faculty/keith-paustian/). When I'm not in the field or the lab, I'm usually trail running, backpacking, or playing in the mountains. Thanks for stopping by!
+I'm an environmental scientist interested in how we can make the best land management decisions possible for soil carbon sequestration, climate resilience, and ecosystem function. My research focuses on ecological impacts of solar energy and the effects of integrating regenerative grazing to reduce land-use tension between energy and agriculture and improve the environmental outcomes of renewable energy. I received my PhD from Colorado State University in Soil Science, and I'm currently a postdoctoral research fellow working with [Dr. Keith Paustian](https://agsci.colostate.edu/old-soilcrop/faculty/keith-paustian/). Before grad school, I spect several years at the Environmental Defense Fund working on clean air and climate policy, which still sthapes how I think about making research useful to decision-makers. When I'm not in the field or the lab, I'm usually trail running, backpacking, or playing in the mountains.
 
 ## Education
 
-**Colorado State University \|** *PhD Student in Soil & Crop Sciences \| 2022 - 2026*
+**Colorado State University \|** *PhD, Soil & Crop Sciences \| 2022 - 2026*
+
+*Dissertation: Sharing Sunlight: Ecosystem Ecology of Multi-Use Solar Energy Systems in the Southeastern United States*
 
 **Princeton University \|** *BSE in Chemical & Biological Engineering \| 2015-2019*
 
+*Senior thesis: Bio-jet Fuel via Fischer Tropsch Synthesis for Decarbonizing Aviation in the United States: Process Simulation, Economics and Scale-Up Analysis*
+
 ## Experience
+
+**Colorado State University** \| *Postdoctoral Research Fellow* \| *2026 - Present*
 
 **Environmental Defense Fund \|** *Climate & Clean Air Analyst \| 2021-2022*
 

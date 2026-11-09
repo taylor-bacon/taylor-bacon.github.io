@@ -20,8 +20,8 @@ format:
     css: styles.css
     toc: false
     backgroundcolor: "#708871"
-    title-block-banner-color: "#29436D"
-    linkcolor: "#29436D"
+    title-block-bansner-color: "#404E41"
+    linkcolor: "#404E41"
     page-layout: full
 
 editor: visual
