@@ -5,6 +5,8 @@ project:
 website:
   title: "Taylor Bacon"
   navbar:
+    background: "#242C25"
+    foreground: "#FFFFFF"
     left:
       - href: index.qmd
         text: Home
@@ -20,8 +22,8 @@ format:
     css: styles.css
     toc: false
     backgroundcolor: "#708871"
-    title-block-bansner-color: "#404E41"
-    linkcolor: "#404E41"
+    title-block-banner-color: "#242C25"
+    linkcolor: "#242C25"
     page-layout: full
 
 editor: visual

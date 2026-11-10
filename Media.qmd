@@ -5,11 +5,11 @@ title: "Media"
 ## Recent Media
 
 ::: {layout-ncol="1"}
-[![**Silicon Ranch Radio**, "Healthy Soil, Productive Solar" (Spotify) \| September 2026](images/clipboard-830341728.png){fig-align="left" width="850"}](https://open.spotify.com/episode/6heRPcEpXTwfGRqvxcyxCk?si=6cbb33d8415e4e05)
+[![**Silicon Ranch Radio**, "Healthy Soil, Productive Solar" (Spotify) \| September 2026](images/clipboard-830341728.png){width="850"}](https://open.spotify.com/episode/6heRPcEpXTwfGRqvxcyxCk?si=6cbb33d8415e4e05)
 
-[![**Los Angeles Times,** "Solar ranch aims to prove grazing cattle under the panels is a farmland win-win" \| April 2026](images/clipboard-2685456126.png){fig-align="left" width="850"}](https://www.latimes.com/environment/story/2026-05-05/solar-ranch-grazing-cattle-under-panels-is-farmland-win-win)
+[![**Los Angeles Times,** "Solar ranch aims to prove grazing cattle under the panels is a farmland win-win" \| April 2026](images/clipboard-2685456126.png){width="850"}](https://www.latimes.com/environment/story/2026-05-05/solar-ranch-grazing-cattle-under-panels-is-farmland-win-win)
 
-[![**We Measure the World**, "Episode 27: The battle for earth: cattle vs. solar" (Spotify) \| August 2023](images/clipboard-3912129326.png)](https://open.spotify.com/episode/5V4dj6xK46i3aiPSiQ1oOw?si=c85bb7c10d31425d)
+[![**We Measure the World**, "Episode 27: The battle for earth: cattle vs. solar" (Spotify) \| August 2023](images/clipboard-3912129326.png){width="850"}](https://open.spotify.com/episode/5V4dj6xK46i3aiPSiQ1oOw?si=c85bb7c10d31425d)
 :::
 
 ## 
